@@ -7,7 +7,7 @@ function scan(freightItems){
             count[i++] = index
         }
     });
-
+    
     return count;
 }
 
